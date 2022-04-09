@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Тээвэр зууч",
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -52,7 +52,7 @@
     "versionPublish": "5.5.8",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/download-1-128x128.png",
-    "mbrsiteDomain": "apgl2ebhv6",
+    "mbrsiteDomain": "qxvjzgiegq",
     "robotsSwitcher": true,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": false,
@@ -76,7 +76,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/download-224x119.png"
+        "meta_image": "@PROJECT_PATH@/assets/images/letter-g-logo-template_77767-2-original.webp"
       },
       "components": [
         {
