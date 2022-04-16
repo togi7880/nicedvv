@@ -64,7 +64,7 @@
       "underlineLink": false,
       "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n"
   },
   "pages": {
